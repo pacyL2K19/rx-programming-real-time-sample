@@ -1,3 +1,4 @@
 dist/
 .env
 build/
+node_modules/
